@@ -1,0 +1,102 @@
+MODULE: 1
+SE – Overview of IT Industry
+1. What is software? What is software engineering?
+
+Software is a collection of codes, documents, and triggers that does a specific job and fills a specific requirement.
+
+
+Engineering is the development of products using best practices, principles, and methods.
+
+2. Explain types of software.
+
+
+Application software. The most common type of software, application software is a computer software package that performs a specific function for a user, or in some cases, for another application. An application can be self-contained, or it can be a group of programs that run the application for the user. Examples of modern applications include office suites, graphics software, databases and database management programs, web browsers, word processors, software development tools, image editors and communication platforms.
+
+
+System software. These software programs are designed to run a computer's application programs and hardware. System software coordinates the activities and functions of the hardware and software. In addition, it controls the operations of the computer hardware and provides an environment or platform for all the other types of software to work in. The OS is the best example of system software; it manages all the other computer programs. Other examples of system software include the firmware, computer language translators and system utilities.
+
+
+
+Driver software. Also known as device drivers, this software is often considered a type of system software. Device drivers control the devices and peripherals connected to a computer, enabling them to perform their specific tasks. Every device that is connected to a computer needs at least one device driver to function. Examples include software that comes with any nonstandard hardware, including special game controllers, as well as the software that enables standard hardware, such as USB storage devices, keyboards, headphones and printers.
+
+
+
+Middleware. The term middleware describes software that mediates between application and system software or between two different kinds of application software. For example, middleware enables Microsoft Windows to talk to Excel and Word. It is also used to send a remote work request from an application in a computer that has one kind of OS, to an application in a computer with a different OS. It also enables newer applications to work with legacy ones.
+
+
+
+
+Programming software. Computer programmers use programming software to write code. Programming software and programming tools enable developers to develop, write, test and debug other software programs. Examples of programming software include assemblers, compilers, debuggers and interpreters.
+
+
+
+
+3. What is SDLC? Explain each phase of SDLC.
+
+The software development life cycle is a process that development teams use to create awesome software that's top-notch in terms of quality, cost-effectiveness, and time efficiency. The main goal is to minimize risks long before deciding how to launch your SaaS product and ensure the software meets the customer's expectations during and after production.
+
+
+
+Stage 1: Project Planning
+Project Planning | First Step In SDLC | BetsolThe first stage of SDLC is all about “What do we want?” Project planning is a vital role in the software delivery lifecycle since this is the part where the team estimates the cost and defines the requirements of the new software.
+
+
+Stage 2: Gathering Requirements & Analysis
+Gathering Requirement and Analysis | Second Step In SDLC | BetsolThe second step of SDLC is gathering maximum information from the client requirements for the product. Discuss each detail and specification of the product with the customer. The development team will then analyze the requirements keeping the design and code of the software in mind. Further, investigating the validity and possibility of incorporating these requirements into the software system. The main goal of this stage is that everyone understands even the minute detail of the requirement. Hardware, operating systems, programming, and security are to name the few requirements.
+
+
+
+Stage 3: Design
+Design | Third Step In SDLC | BetsolIn the design phase (3rd step of SDLC), the program developer scrutinizes whether the prepared software suffices all the requirements of the end-user. Additionally, if the project is feasible for the customer technologically, practically, and financially. Once the developer decides on the best design approach, he then selects the program languages like Oracle, Java, etc., that will suit the software.
+
+
+Once the design specification is prepared, all the stakeholders will review this plan and provide their feedback and suggestions. It is absolutely mandatory to collect and incorporate stakeholder’s input in the document, as a small mistake can lead to cost overrun.
+
+
+
+
+Stage 4: Coding or Implementation
+Coding or Implementation | Fourth Step In SDLC | BetsolTime to code! It means translating the design to a computer-legible language. In this fourth stage of SDLC, the tasks are divided into modules or units and assigned to various developers. The developers will then start building the entire system by writing code using the programming languages they chose. This stage is considered to be one of the longest in SDLC. The developers need certain predefined coding guidelines, and programming tools like interpreters, compilers, debugger to implement the code.
+
+
+The developers can show the work done to the business analysts in case if any modifications or enhancements required.
+
+
+
+
+Stage 5: Testing
+Testing | Fifth Step In SDLC | BetsolOnce the developers build the software, then it is deployed in the testing environment. Then the testing team tests the functionality of the entire system. In this fifth phase of SDLC, the testing is done to ensure that the entire application works according to the customer requirements.
+
+After testing, the QA and testing team might find some bugs or defects and communicate the same with the developers. The development team then fixes the bugs and send it to QA for a re-test. This process goes on until the software is stable, bug-free and working according to the business requirements of that system.
+
+
+
+
+Stage 6: Deployment
+Development | Sixth Step In SDLC | BetsolThe sixth phase of SDLC: Once the testing is done, and the product is ready for deployment, it is released for customers to use. The size of the project determines the complexity of the deployment. The users are then provided with the training or documentation that will help them to operate the software.  Again, a small round of testing is performed on production to ensure environmental issues or any impact of the new release.
+
+
+
+
+Stage 7: Maintenance
+Maintenance | Seventh Step In SDLC | BetsolThe actual problem starts when the customer actually starts using the developed system and those needs to be solved from time to time. Maintenance is the seventh phase of SDLC where the developed product is taken care of. According to the changing user end environment or technology, the software is updated timely.
+
+
+
+4. What is DFD? Create a DFD diagram on Flipkart
+    DFD is the abbreviation for Data Flow Diagram. The flow of data of a system or a process is represented by DFD.
+   
+   PDF file attached
+
+
+5. What is Flow chart? Create a flowchart to make addition of two numbers
+    A flowchart is a type of diagram that represents a workflow or process.
+
+   PDF file attached
+
+
+6. What is Use case Diagram? Create a use-case on bill payment on paytm.
+
+ A Use Case Diagram is a vital tool in system design, it provides a visual representation of how users interact with a system. It serves as a blueprint for understanding the functional requirements of a system from a user’s perspective, aiding in the communication between stakeholders and guiding the development process.
+
+    PDF file attached
